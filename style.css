@@ -1,0 +1,33 @@
+nav img{
+    max-width: 64px;
+    max-height: 64px;
+    border-radius: 50%;
+
+}
+.navbar-brand{
+    margin-left: 20px;
+}
+.carousel-inner{
+    max-width: 860px;
+     max-height: 400px;
+    
+     
+}
+#francais{
+width: 300px;
+margin-right: 30px;
+border-radius: 30px;
+}
+#anglais{
+
+    width: 300px;
+    border-radius: 30px;
+}
+#welcome-text{
+    text-align: center;
+    width: 500px;
+}
+#contact{
+    width: 300px;
+    border-radius: 30px;
+}
